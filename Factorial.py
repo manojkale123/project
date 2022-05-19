@@ -1,4 +1,3 @@
-#Factorial of number
 def fact(n):
     fact=1
 
